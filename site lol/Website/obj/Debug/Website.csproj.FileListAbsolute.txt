@@ -1,0 +1,223 @@
+C:\Users\marcio.morais\Desktop\Website\Website\bin\Website.dll.config
+C:\Users\marcio.morais\Desktop\Website\Website\bin\Website.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\Website.pdb
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\csc.exe
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\csc.exe.config
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\csc.rsp
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\csi.exe
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\csi.exe.config
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\csi.rsp
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.AppContext.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Console.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Security.Claims.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\vbc.exe
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\vbc.exe.config
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\vbc.rsp
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marcio.morais\Desktop\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marcio.morais\Desktop\Website\Website\obj\Debug\Website.csprojAssemblyReference.cache
+C:\Users\marcio.morais\Desktop\Website\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+C:\Users\marcio.morais\Desktop\Website\Website\obj\Debug\Website.csproj.CopyComplete
+C:\Users\marcio.morais\Desktop\Website\Website\obj\Debug\Website.dll
+C:\Users\marcio.morais\Desktop\Website\Website\obj\Debug\Website.pdb
+E:\prof burgao\website 4\Website-2\Website\bin\Website.dll.config
+E:\prof burgao\website 4\Website-2\Website\bin\Website.dll
+E:\prof burgao\website 4\Website-2\Website\bin\Website.pdb
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\csc.exe
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\csc.exe.config
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\csc.rsp
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\csi.exe
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\csi.exe.config
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\csi.rsp
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.Managed.Core.targets
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.AppContext.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Collections.Immutable.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Console.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.IO.Compression.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.IO.FileSystem.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.IO.Pipes.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Reflection.Metadata.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Security.AccessControl.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Security.Claims.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Security.Principal.Windows.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.ValueTuple.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Xml.XmlDocument.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Xml.XPath.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\vbc.exe
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\vbc.exe.config
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\vbc.rsp
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\VBCSCompiler.exe
+E:\prof burgao\website 4\Website-2\Website\bin\roslyn\VBCSCompiler.exe.config
+E:\prof burgao\website 4\Website-2\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\prof burgao\website 4\Website-2\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\prof burgao\website 4\Website-2\Website\obj\Debug\Website.csprojAssemblyReference.cache
+E:\prof burgao\website 4\Website-2\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+E:\prof burgao\website 4\Website-2\Website\obj\Debug\Website.csproj.CopyComplete
+E:\prof burgao\website 4\Website-2\Website\obj\Debug\Website.dll
+E:\prof burgao\website 4\Website-2\Website\obj\Debug\Website.pdb
+D:\prof burgao\website 4\Website-2\Website\bin\Website.dll.config
+D:\prof burgao\website 4\Website-2\Website\bin\Website.dll
+D:\prof burgao\website 4\Website-2\Website\bin\Website.pdb
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\csc.exe
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\csc.exe.config
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\csc.rsp
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\csi.exe
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\csi.exe.config
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\csi.rsp
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.Managed.Core.targets
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.AppContext.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Collections.Immutable.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Console.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.IO.Compression.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.IO.FileSystem.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.IO.Pipes.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Reflection.Metadata.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Security.AccessControl.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Security.Claims.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Security.Principal.Windows.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.ValueTuple.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Xml.XmlDocument.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Xml.XPath.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\vbc.exe
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\vbc.exe.config
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\vbc.rsp
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\VBCSCompiler.exe
+D:\prof burgao\website 4\Website-2\Website\bin\roslyn\VBCSCompiler.exe.config
+D:\prof burgao\website 4\Website-2\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\prof burgao\website 4\Website-2\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\prof burgao\website 4\Website-2\Website\obj\Debug\Website.csprojAssemblyReference.cache
+D:\prof burgao\website 4\Website-2\Website\obj\Debug\Website.csproj.CopyComplete
+D:\prof burgao\website 4\Website-2\Website\obj\Debug\Website.dll
+D:\prof burgao\website 4\Website-2\Website\obj\Debug\Website.pdb
+E:\prof burgao\avançado\site lol\Website\bin\Website.dll.config
+E:\prof burgao\avançado\site lol\Website\bin\Website.dll
+E:\prof burgao\avançado\site lol\Website\bin\Website.pdb
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\csc.exe
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\csc.exe.config
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\csc.rsp
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\csi.exe
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\csi.exe.config
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\csi.rsp
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\Microsoft.Managed.Core.targets
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.AppContext.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Collections.Immutable.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Console.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.IO.Compression.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.IO.FileSystem.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.IO.Pipes.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Reflection.Metadata.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Security.AccessControl.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Security.Claims.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Security.Principal.Windows.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.ValueTuple.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Xml.XmlDocument.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Xml.XPath.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\vbc.exe
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\vbc.exe.config
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\vbc.rsp
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\VBCSCompiler.exe
+E:\prof burgao\avançado\site lol\Website\bin\roslyn\VBCSCompiler.exe.config
+E:\prof burgao\avançado\site lol\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\prof burgao\avançado\site lol\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\prof burgao\avançado\site lol\Website\obj\Debug\Website.csprojAssemblyReference.cache
+E:\prof burgao\avançado\site lol\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+E:\prof burgao\avançado\site lol\Website\obj\Debug\Website.csproj.CopyComplete
+E:\prof burgao\avançado\site lol\Website\obj\Debug\Website.dll
+E:\prof burgao\avançado\site lol\Website\obj\Debug\Website.pdb

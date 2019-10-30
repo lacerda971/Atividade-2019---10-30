@@ -1,0 +1,7 @@
+E:\etec 2\etec\prof bidu\Projeto IF\IF REPETIÇÃO\Exercicio1\Exercicio1\bin\Debug\Exercicio1.exe.config
+E:\etec 2\etec\prof bidu\Projeto IF\IF REPETIÇÃO\Exercicio1\Exercicio1\bin\Debug\Exercicio1.exe
+E:\etec 2\etec\prof bidu\Projeto IF\IF REPETIÇÃO\Exercicio1\Exercicio1\bin\Debug\Exercicio1.pdb
+E:\etec 2\etec\prof bidu\Projeto IF\IF REPETIÇÃO\Exercicio1\Exercicio1\obj\Debug\Exercicio1.csprojAssemblyReference.cache
+E:\etec 2\etec\prof bidu\Projeto IF\IF REPETIÇÃO\Exercicio1\Exercicio1\obj\Debug\Exercicio1.csproj.CoreCompileInputs.cache
+E:\etec 2\etec\prof bidu\Projeto IF\IF REPETIÇÃO\Exercicio1\Exercicio1\obj\Debug\Exercicio1.exe
+E:\etec 2\etec\prof bidu\Projeto IF\IF REPETIÇÃO\Exercicio1\Exercicio1\obj\Debug\Exercicio1.pdb

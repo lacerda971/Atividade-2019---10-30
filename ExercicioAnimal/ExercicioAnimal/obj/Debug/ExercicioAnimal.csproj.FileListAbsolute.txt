@@ -1,0 +1,7 @@
+E:\etec 2\etec\prof bidu\Projeto IF\ExercicioAnimal\ExercicioAnimal\bin\Debug\ExercicioAnimal.exe.config
+E:\etec 2\etec\prof bidu\Projeto IF\ExercicioAnimal\ExercicioAnimal\bin\Debug\ExercicioAnimal.exe
+E:\etec 2\etec\prof bidu\Projeto IF\ExercicioAnimal\ExercicioAnimal\bin\Debug\ExercicioAnimal.pdb
+E:\etec 2\etec\prof bidu\Projeto IF\ExercicioAnimal\ExercicioAnimal\obj\Debug\ExercicioAnimal.csprojAssemblyReference.cache
+E:\etec 2\etec\prof bidu\Projeto IF\ExercicioAnimal\ExercicioAnimal\obj\Debug\ExercicioAnimal.csproj.CoreCompileInputs.cache
+E:\etec 2\etec\prof bidu\Projeto IF\ExercicioAnimal\ExercicioAnimal\obj\Debug\ExercicioAnimal.exe
+E:\etec 2\etec\prof bidu\Projeto IF\ExercicioAnimal\ExercicioAnimal\obj\Debug\ExercicioAnimal.pdb
